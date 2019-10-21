@@ -1,5 +1,5 @@
 /*
- * Author: ArtStyles (ArtTemplate)
+ * Author: Nguyen Xuan Phu
  * Template Name: vCard
  * Version: 1.0.2
 */
